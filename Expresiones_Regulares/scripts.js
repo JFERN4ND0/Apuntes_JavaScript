@@ -4,7 +4,7 @@
     principalmente utilizada para la búsqueda de patrones de cadenas
     de caracteres u operaciones de sustituciones.
     
-    * regex101.com
+    * https://regex101.com/
 
 ? sintaxis:
     /patron/

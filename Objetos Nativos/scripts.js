@@ -60,6 +60,7 @@ console.log(location.hash);
 /*
 ? Objeto history
   * https://developer.mozilla.org/es/docs/DOM
+ * https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
     
     Manipulando_el_historial_del_navegador
         back()
@@ -90,6 +91,7 @@ console.log(date.getDate);
 
    ? Interval:
    * https//developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval
+   * https://developer.mozilla.org/es/docs/Web/API/setInterval
 
     ⁡⁣⁢⁣setInterval(() => {code}, delay-in-miliseconds)⁡ -> Hace que
     se ejecute la función cada delay milisegundos. Si lo

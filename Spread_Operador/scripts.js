@@ -6,7 +6,7 @@ su sintaxis es ⁡⁢⁢⁢...⁡
 // const numbers = [-12, 2, 3, 23, 43, 2, 3];
 // console.log(...numbers);
 
-// * Enviar elementos en un array a una función
+//| Enviar elementos en un array a una función
 // const addNumbers = (a, b, c) => {
 //     console.log(a + b + c);
 // }
@@ -14,7 +14,7 @@ su sintaxis es ⁡⁢⁢⁢...⁡
 // let numbersToAdd = [1,2,3];
 // addNumbers(...numbersToAdd);
 
-// * Añadir un array a otro array
+// | Añadir un array a otro array
 // let users = ['javier','david','rosa','juan','mercedes'];
 
 // let newUsers = ['marta', 'jaime', 'laura'];
@@ -22,12 +22,12 @@ su sintaxis es ⁡⁢⁢⁢...⁡
 // users.push(...newUsers);
 // console.log(users);
 
-// * copiar arrays
+// | copiar arrays
 // let arr1 = [1, 2, 3, 4, 5];
 // let arr2 = [6, 7, 8];
 // console.log(arrConcat);
 
-// * Concatenar arrays
+// | Concatenar arrays
 // let arr1 = [1, 2, 3, 4, 5];
 // let arr2 = [6, 7, 8];
 
@@ -35,8 +35,8 @@ su sintaxis es ⁡⁢⁢⁢...⁡
 // console.log(arrConcat);
 
 /* 
-* Enviar un número indefinido de argumentos a una
-* función (parámetros REST)
+| Enviar un número indefinido de argumentos a una
+| función (parámetros REST)
 */
 // const restParms = (...numbers) => {
 //     console.log(numbers);
@@ -44,11 +44,11 @@ su sintaxis es ⁡⁢⁢⁢...⁡
 
 // restParms(1,2,3,4,5,6,7,8);
 
-// * Librería math
+// | Librería math
 const numbers = [-12, 2, 3, 23, 43, 2, 3];
 
 console.log(Math.max(...numbers));
 console.log(Math.min(...numbers));
 
-// * Eliminar elementos duplicados
+// | Eliminar elementos duplicados
 console.log([...new Set(numbers)]);

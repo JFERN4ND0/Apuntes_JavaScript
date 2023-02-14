@@ -1,9 +1,11 @@
 /*
 ? Protocolo HTTP:
 * https://es.wikipidedi.org/wiki/Protocolo_de_transferencia_de_hipertexto
+* https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto
 
 ? Códigos de estado de respuesta HTTP:
 * https://developer.mozila.org/es/docs/web/HTTP/Status
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 */
 
 const button = document.getElementById("button");

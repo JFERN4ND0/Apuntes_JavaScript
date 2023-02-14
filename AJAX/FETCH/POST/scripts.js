@@ -9,7 +9,7 @@
         headers: {
             cabeceras de información sobre lo que
             estamos enviando
-            https://developer.mozilla.org/es/docs/Web/HTTP/Headers
+            * https://developer.mozilla.org/es/docs/Web/HTTP/Headers
         }
     })
 
