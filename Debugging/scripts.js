@@ -1,6 +1,7 @@
 /* 
 Tutorial chrome
 * https://developers.google.com/Web/tools/chrome-devtools/javascript?hl=es
+* https://developer.chrome.com/docs/devtools/
 */
 
 const form = document.getElementById("form");
