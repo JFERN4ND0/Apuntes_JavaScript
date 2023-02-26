@@ -1,14 +1,14 @@
 /* 
 ? Atributos
-    ⁡⁣⁢⁣element.getAttribute('attribute')⁡
-    ⁡⁣⁢⁣element.setAttribute('atribute', value)⁡
+|    element.getAttribute('attribute')⁡
+|    element.setAttribute('atribute', value)⁡
 
 ? clases
-    ⁡⁣⁢⁣element.classList.add('class', 'class', ...)⁡
-    ⁡⁣⁢⁣element.classList.remove('class', 'class', ...)⁡
-    ⁡⁣⁢⁣element.classList.toggle('class'[,force])⁡
-    ⁡⁣⁢⁣element.classList.contains('class')⁡
-    ⁡⁣⁢⁣element.classList.replace('oldClass', newClass)⁡
+|    element.classList.add('class', 'class', ...)⁡
+|    ⁡⁣⁢element.classList.remove('class', 'class', ...)
+|    element.classList.toggle('class'[,force])
+|    element.classList.contains('class')
+|    element.classList.replace('oldClass', newClass)⁡
 
 ? atributos directos
     id
